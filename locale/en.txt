@@ -68,11 +68,11 @@ panorama_EC15AC13_E7B2_B24B_41D3_B72076EBEEDE.label = 09 Patio 1 Dia
 panorama_F4B0DDB9_E7D5_F247_41E7_D54DB75CA5AB.label = 09 Patio 1 Noche
 panorama_F4D1F6DF_E7D5_7FFB_41D0_8BBCCE79E436.label = 03 Entrada Principal
 panorama_F5123857_E7FE_F2CB_41EC_513CB60F9998.label = 26 Habitacion al Patio
-panorama_F656EEA9_E7FF_8E47_41E9_8C4D19AF9CA1.label = 27 Baño Habitacion al Patio
 panorama_F76532D0_E7FF_B7C5_41D2_8AD96F5BEE6D.label = 31 3er Piso Pasillo Izquierda
 panorama_F765518F_E7FF_F25B_41EC_224733878992.label = 29 Estar Diario 3er Piso
 panorama_F7655257_E7FF_96CC_41EC_7536AA49A33F.label = 30 Habitación Derecha
 panorama_F7656FCF_E7FF_8DDC_41E9_C1E14BA6F39D.label = 28 Escalera a 3er Piso
+panorama_FB776BF5_E8FD_95CF_41E2_20BF03A4B198.label = 27 Baño Habitacion al Patio
 
 ## Action
 
