@@ -45,10 +45,8 @@ HTMLText_EA4506F7_FDA0_5CF1_41C2_BF883C7259BF.html = <div style="text-align:left
 ## Media
 
 ### Title
-panorama_C01275F5_CF79_964F_41E5_AC4DE8845105.label = 01 Calle
 panorama_C1A5A5DB_CFA9_967B_41E1_5C2A0CE1BBD2.label = 06 Living - Comedor Social 2
 panorama_C47E0F57_CF6B_924C_41E6_F12FA9DE6739.label = 17 2do Piso - Habitación Principal
-panorama_C47E1B3E_CF6A_923D_41E1_A22AFF9891BE.label = 11 Comedor Diario
 panorama_C47E3DCC_CF6B_965D_41E2_CA1B258BEF19.label = 15 Escalera a 2do Piso
 panorama_C47E426C_CF6A_925C_41D1_EEFD3614BDEF.label = 22 Garaje
 panorama_C47EE1D7_CF6B_8E4C_41E3_FF4B78DA1B95.label = 20 2do Piso - Habitación 2
@@ -57,7 +55,6 @@ panorama_C47F9A9A_CF6A_F2C5_41AD_D72E59D09E14.label = 10 Patio 2
 panorama_C47FAD70_CF6A_7645_41D2_24422D748153.label = 14 Cocina 2
 panorama_C47FC2B1_CF69_F2C7_41CB_A7880931DA15.label = 02 Entrada - Patio
 panorama_C47FDC78_CF6A_9645_41D8_29ED642F090F.label = 13 Cocina 1
-panorama_C47FFB56_CF6A_B24D_41E4_A0C38DA3BDCF.label = 12 Pasillo a Cocina
 panorama_C54725A6_D0E3_80BF_41E9_2716EEEF2D82.label = 07 Quincho 1
 panorama_DA828210_CF99_8DC5_41E7_D7B55B5C5557.label = 19 2do Piso - Habitación Principal - Baño
 panorama_DDED52FD_CF99_923C_41E3_93E0C5EF5FF1.label = 05 Living - Comedor Social 1
@@ -72,7 +69,12 @@ panorama_F76532D0_E7FF_B7C5_41D2_8AD96F5BEE6D.label = 31 3er Piso Pasillo Izquie
 panorama_F765518F_E7FF_F25B_41EC_224733878992.label = 29 Estar Diario 3er Piso
 panorama_F7655257_E7FF_96CC_41EC_7536AA49A33F.label = 30 Habitación Derecha
 panorama_F7656FCF_E7FF_8DDC_41E9_C1E14BA6F39D.label = 28 Escalera a 3er Piso
+panorama_FB52D634_E8CF_BE4D_41E8_5538BCB53E8C.label = 12 Pasillo a Cocina
 panorama_FB776BF5_E8FD_95CF_41E2_20BF03A4B198.label = 27 Baño Habitacion al Patio
+panorama_FC089EED_E853_8FDF_41E2_55AE029CB703.label = 12 Pasillo a Cocina
+panorama_FC3910B1_E8BE_9247_41B3_30119271C026.label = 01 Calle
+panorama_FDE496F0_E856_9FC4_41DE_A3E6BE0EFEAD.label = 11 Comedor Diario
+panorama_FE69FABA_E87F_9644_41D5_BC393C772302.label = 12 Pasillo a Cocina
 
 ## Action
 
