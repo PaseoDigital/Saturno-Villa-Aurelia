@@ -1,8 +1,8 @@
 {
- "start_url": "index.htm",
- "description": "Bella, amplia y moderna; 5 habitaciones, 3 pisos, piscina, quincho, amplio garage.",
- "background_color": "#FFFFFF",
  "theme_color": "#FFFFFF",
+ "description": "Bella, amplia y moderna; 5 habitaciones, 3 pisos, piscina, quincho, amplio garage.",
+ "start_url": "index.htm",
+ "background_color": "#FFFFFF",
  "name": "Preciosa Residencia - V. Aurelia",
  "icons": [
   {
