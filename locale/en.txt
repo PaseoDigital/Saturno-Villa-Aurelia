@@ -45,13 +45,14 @@ HTMLText_EA4506F7_FDA0_5CF1_41C2_BF883C7259BF.html = <div style="text-align:left
 ## Media
 
 ### Title
+panorama_0D998ABF_06E5_71D9_419B_C66750133A9E.label = Patio
+panorama_1A4A9E56_0923_D0AB_4172_A4188D85275A.label = 27 Baño Habitacion al Patio
 panorama_C1A5A5DB_CFA9_967B_41E1_5C2A0CE1BBD2.label = 06 Living - Comedor Social 2
 panorama_C47E0F57_CF6B_924C_41E6_F12FA9DE6739.label = 17 2do Piso - Habitación Principal
 panorama_C47E3DCC_CF6B_965D_41E2_CA1B258BEF19.label = 15 Escalera a 2do Piso
 panorama_C47E426C_CF6A_925C_41D1_EEFD3614BDEF.label = 22 Garaje
 panorama_C47EE1D7_CF6B_8E4C_41E3_FF4B78DA1B95.label = 20 2do Piso - Habitación 2
 panorama_C47EF4E3_CF69_B644_41D2_17B8802C93AD.label = 04 Escritorio
-panorama_C47F9A9A_CF6A_F2C5_41AD_D72E59D09E14.label = 10 Patio 2
 panorama_C47FAD70_CF6A_7645_41D2_24422D748153.label = 14 Cocina 2
 panorama_C47FC2B1_CF69_F2C7_41CB_A7880931DA15.label = 02 Entrada - Patio
 panorama_C47FDC78_CF6A_9645_41D8_29ED642F090F.label = 13 Cocina 1
@@ -61,8 +62,6 @@ panorama_DDED52FD_CF99_923C_41E3_93E0C5EF5FF1.label = 05 Living - Comedor Social
 panorama_DE721044_CFAB_8E4D_41CF_1CE9556FE4C2.label = 18 2do Piso - Habitación Principal - Vestidor
 panorama_DE8FF816_CFAA_9DCD_41DA_371E863D2975.label = 16 2do Piso - Estar Diario
 panorama_DEBA91C0_CFAA_8E45_41E7_C4F8E848E21D.label = 08 Quincho 2
-panorama_EC15AC13_E7B2_B24B_41D3_B72076EBEEDE.label = 09 Patio 1 Dia
-panorama_F4B0DDB9_E7D5_F247_41E7_D54DB75CA5AB.label = 09 Patio 1 Noche
 panorama_F4D1F6DF_E7D5_7FFB_41D0_8BBCCE79E436.label = 03 Entrada Principal
 panorama_F5123857_E7FE_F2CB_41EC_513CB60F9998.label = 26 Habitacion al Patio
 panorama_F76532D0_E7FF_B7C5_41D2_8AD96F5BEE6D.label = 31 3er Piso Pasillo Izquierda
@@ -70,7 +69,6 @@ panorama_F765518F_E7FF_F25B_41EC_224733878992.label = 29 Estar Diario 3er Piso
 panorama_F7655257_E7FF_96CC_41EC_7536AA49A33F.label = 30 Habitación Derecha
 panorama_F7656FCF_E7FF_8DDC_41E9_C1E14BA6F39D.label = 28 Escalera a 3er Piso
 panorama_FB52D634_E8CF_BE4D_41E8_5538BCB53E8C.label = 12 Pasillo a Cocina
-panorama_FB776BF5_E8FD_95CF_41E2_20BF03A4B198.label = 27 Baño Habitacion al Patio
 panorama_FC089EED_E853_8FDF_41E2_55AE029CB703.label = 12 Pasillo a Cocina
 panorama_FC3910B1_E8BE_9247_41B3_30119271C026.label = 01 Calle
 panorama_FDE496F0_E856_9FC4_41DE_A3E6BE0EFEAD.label = 11 Comedor Diario
